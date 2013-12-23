@@ -4,7 +4,6 @@
 	<title>flat prototype</title>
 	<link href='css/style.less' rel='stylesheet' type='text/less'>
 	<script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js'></script>
-	<script src='js/stroll.js'></script>
 	<script src='//cdnjs.cloudflare.com/ajax/libs/less.js/1.5.0/less.min.js'></script>
 	<script src='//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js'></script>	
 	<script src='js/main.js'></script>
