@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>flat prototype</title>
+	<title>McKinnonSC/stash-app</title>
 	<link href='css/style.less' rel='stylesheet' type='text/less'>
 	<script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js'></script>
 	<script src='//cdnjs.cloudflare.com/ajax/libs/less.js/1.5.0/less.min.js'></script>
@@ -24,6 +24,23 @@
 		<div class='channel' chname='GO!'><img src='css/go.png'></div>
 		<div class='channel' chname='GEM'><img src='css/gem.png'></div>
 		<div class='channel' chname='Channel 31'><img src='css/ch31.png'></div>
+	</section>
+
+	<section id='timeselect'>
+		<div class='date' date='22 dec'></div>
+		<div class='date' date='21 dec'></div>
+		<div class='date' date='20 dec'></div>
+		<div class='date' date='19 dec'></div>
+		<div class='date' date='18 dec'></div>
+		<div class='date' date='17 dec'></div>
+		<div class='date' date='16 dec'></div>
+		<div class='date' date='15 dec'></div>
+		<div class='date' date='14 dec'></div>
+		<div class='date' date='13 dec'></div>
+		<div class='date' date='12 dec'></div>
+		<div class='date' date='11 dec'></div>
+		<div class='date' date='10 dec'></div>
+		<div class='date' date='9 dec'></div>
 	</section>
 
 	<section id='channeldescription'>
